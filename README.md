@@ -1,16 +1,17 @@
-## Hi there, my name is Andrew
+<h1>Hi, I'm Andrew, an <a href="https://linkedin.com/in/Josh">IT Professional</a>☺</h1>
 
-<!--
-**andrewmeyerhofer/andrewmeyerhofer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>👨‍💻 Information Technology Projects:</h2>
 
-Here are some ideas to get you started:
+- <b>osTicket (Help Desk Ticketing System)</b>
+  - [Project 1](https://github.com/andrewmeyerhofer/osticket-prereqs)
+  - [Project 2](https://github.com/andrewmeyerhofer/post-install-config)
+- <b>Microsoft Azure</b>
+  - [Project 3](https://github.com/andrewmeyerhofer/configure-ad)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2>🤳Connect with me:</h2>
+
+[<img align="left" alt="Josh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Josh | Indeed" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+[Indeed]: Indeed URL
+[linkedin]: https://linkedin.com/in/Andrew
