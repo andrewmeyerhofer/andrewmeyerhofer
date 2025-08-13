@@ -3,10 +3,9 @@
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
-  - [Project 1](https://github.com/andrewmeyerhofer/osticket-prereqs)
-  - [Project 2](https://github.com/andrewmeyerhofer/post-install-config)
-- <b>Microsoft Azure</b>
-  - [Project 3](https://github.com/andrewmeyerhofer/configure-ad)
+  - [Project 1](https://github.com/andrewmeyerhofer/Project-1)
+  - [Project 2](https://github.com/andrewmeyerhofer/Project-2)
+  - [Project 3](https://github.com/andrewmeyerhofer/Project-3)
 
 <h2>🤳Connect with me:</h2>
 
