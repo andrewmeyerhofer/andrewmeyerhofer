@@ -3,8 +3,8 @@
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
-  - [Project 1](https://github.com/andrewmeyerhofer/Project-1)
-  - [Project 2](https://github.com/andrewmeyerhofer/Project-2)
+  - [osTicket Install](https://github.com/andrewmeyerhofer/osTicket-Install)
+  - [osTicket Config](https://github.com/andrewmeyerhofer/osTicket-Config)
   - [Project 3](https://github.com/andrewmeyerhofer/Project-3)
 
 <h2>🤳Connect with me:</h2>
