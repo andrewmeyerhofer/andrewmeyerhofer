@@ -5,7 +5,7 @@
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket Installation](https://github.com/andrewmeyerhofer/osTicket-Install)
   - [osTicket Setup](https://github.com/andrewmeyerhofer/osTicket-Setup)
-  - [osTicket Examples](https://github.com/andrewmeyerhofer/osTicket-Examples)
+  - [Ticketing System Simulation](https://github.com/andrewmeyerhofer/osTicket-Simulation)
 
 <h2>🤳Connect with me:</h2>
 
