@@ -13,7 +13,7 @@
 <h2>🤳Connect with me:</h2>
 
 [<img align="left" alt="Andrew | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Andrew | Indeed" width="22px" src=<img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/fc95a51f-8014-4ba5-8e76-bf59ce4cd73d" />][Indeed]
+[<img align="left" alt="Andrew | Indeed" width="22px" src="https://github.com/user-attachments/assets/fc95a51f-8014-4ba5-8e76-bf59ce4cd73d" />][Indeed]
 
 [Indeed]: https://profile.indeed.com/p/andrewm-c8lpf8m
 [linkedin]: https://linkedin.com/in/AndrewMeyerhofer
