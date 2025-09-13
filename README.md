@@ -16,4 +16,4 @@
 [<img align="left" alt="Andrew | Indeed" width="22px" src="https://github.com/user-attachments/assets/fc95a51f-8014-4ba5-8e76-bf59ce4cd73d" />][Indeed]
 
 [Indeed]: https://profile.indeed.com/p/andrewm-c8lpf8m
-[linkedin]: https://linkedin.com/in/AndrewMeyerhofer
+[linkedin]: www.linkedin.com/in/andrew-meyerhofer-49b945265
