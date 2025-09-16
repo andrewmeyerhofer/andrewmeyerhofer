@@ -8,7 +8,7 @@
   - [Ticketing System Simulation](https://github.com/andrewmeyerhofer/osTicket-Simulation)
  
 - <b>Active Directory</b>
-  - [VM Creation in Microsoft Azure (for AD project)](https://github.com/andrewmeyerhofer/VM-Setup)
+  - [VM Creation in Microsoft Azure](https://github.com/andrewmeyerhofer/VM-Setup)
 
 <h2>🤳Connect with me:</h2>
 
