@@ -10,6 +10,8 @@
 - <b>Active Directory</b>
   - [VM Creation in Microsoft Azure](https://github.com/andrewmeyerhofer/VM-Setup)
   - [Deploying Active Directory](https://github.com/andrewmeyerhofer/AD-Deploy)
+  - [DNS Practice](https://github.com/andrewmeyerhofer/DNS)
+    
 
 <h2>🤳Connect with me:</h2>
 
