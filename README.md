@@ -11,7 +11,7 @@
   - [VM Creation in Microsoft Azure](https://github.com/andrewmeyerhofer/VM-Setup)
   - [Deploying Active Directory](https://github.com/andrewmeyerhofer/AD-Deploy)
   - [DNS Practice](https://github.com/andrewmeyerhofer/DNS)
-  - [Network File Shares and Permissions](https://github.com/andrewmeyerhofer/Network-File-Share-and-Permissions)
+  - [Network File Shares and Permissions](https://github.com/andrewmeyerhofer/Network-File-Shares-and-Permissions)
     
 
 <h2>🤳Connect with me:</h2>
